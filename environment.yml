@@ -1,4 +1,4 @@
-name: robosumotest
+name: robosumo
 channels:
   - defaults
 dependencies:
